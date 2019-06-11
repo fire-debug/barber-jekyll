@@ -7,12 +7,12 @@ google_analytics:
 name: Tyler Spencer
 title: Know Your Worth
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+  As an engineer in New Zealand do you know your worth?
+url: https://knowyourworth.nz/
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
+  - name: Facebook
     url: https://twitter.com/thomasvaeth
   - name: instagram
     url: https://www.instagram.com/thomas.vaeth/
